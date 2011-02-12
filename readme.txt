@@ -1,4 +1,4 @@
-=== Debug Bar ===
+=== Logged Out Admin Bar ===
 Contributors: westi
 Tags: admin bar
 Tested up to: 3.1

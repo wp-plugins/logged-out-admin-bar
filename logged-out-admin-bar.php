@@ -4,7 +4,7 @@
  Plugin URI: http://wordpress.org/extend/plugins/logged-out-admin-bar/
  Description: Makes that admin bar always visible even for logged out users
  Author: westi
- Version: 0.1
+ Version: 0.2
  Author URI: http://blog.ftwr.co.uk/
  */
 

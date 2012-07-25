@@ -2,7 +2,7 @@
 Contributors: westi
 Tags: admin bar
 Tested up to: 3.4
-Stable tag: 0.1
+Stable tag: 0.2
 Requires at least: 3.1
 
 Makes that admin bar always visible even for logged out users
